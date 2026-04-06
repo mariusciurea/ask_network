@@ -1,0 +1,8 @@
+# virtual environment
+.venv/
+
+# project related
+.idea/
+
+# environment variables
+.env

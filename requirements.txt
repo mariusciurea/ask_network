@@ -1,0 +1,4 @@
+google-adk
+SQLAlchemy
+PyMySQL
+python-dotenv
